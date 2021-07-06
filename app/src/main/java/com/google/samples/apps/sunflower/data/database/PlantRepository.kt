@@ -14,8 +14,9 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.sunflower.data
+package com.google.samples.apps.sunflower.data.database
 
+import com.google.samples.apps.sunflower.data.database.PlantDao
 import javax.inject.Inject
 import javax.inject.Singleton
 

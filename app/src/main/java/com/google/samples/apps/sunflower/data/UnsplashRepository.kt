@@ -20,6 +20,7 @@ import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import com.google.samples.apps.sunflower.api.UnsplashService
+import com.google.samples.apps.sunflower.data.model.UnsplashPhoto
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
